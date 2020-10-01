@@ -16,7 +16,7 @@ ___
 
 1.If you had a fresh Installation of sublime-text-3 open file manager then go to `\home\.config\sublime-text-3\`
 
-then replace the packages folder with the packages folder from this repo.
+then replace the packages folder with the packages folder from this repo.*you will get some cool code snippets*
 
 2. If you are a exsisting user of sublime-text-3 then copy all the builds from the folder [builds](builds) and paste them inside `\home\.config\sublime-text-3\Packages\User`
 
